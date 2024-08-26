@@ -1,8 +1,8 @@
 public class Main3
 {
- public static int main(String[] args)
- {
-   System.out.println("Hello world");
-	return 0;
- }
+public static void main(String[] args)
+{
+System.out.println("Hello,world");
+return 0;
+}
 }
